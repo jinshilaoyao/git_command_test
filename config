@@ -1,0 +1,11 @@
+# Agithub (595133914@qq.com)
+Host 595133914@qq.com
+ HostName https://github.com/jinshilaoyao/git_command_test.git
+ User git 
+ IdentityFile /Users/yaoyao/git_command_test/id_rsa_5951
+
+# Bgithub (1145119186@qq.com)
+Host 1145119186@qq.co
+ HostName https://github.com/jinshilaoyao/git_command_test.git
+ User git 
+ IdentityFile /Users/yaoyao/git_command_test/id_rsa_1145
